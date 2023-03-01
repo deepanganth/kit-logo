@@ -2,7 +2,6 @@ import ReactDOM from 'react-dom'
 import React, { Suspense,useRef} from 'react'
 import { Canvas, useLoader,useFrame } from '@react-three/fiber'
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader'
-// import duck from './duck.glb'
 import { OrbitControls } from "@react-three/drei";
 import display from './kit2.glb';
 import './styles.css'
