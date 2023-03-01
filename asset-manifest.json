@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kit-logo/static/css/main.cb848cb4.css",
+    "main.js": "/kit-logo/static/js/main.394ab076.js",
+    "static/media/kit2.glb": "/kit-logo/static/media/kit2.122aef6b3416e6a328a1.glb",
+    "index.html": "/kit-logo/index.html",
+    "main.cb848cb4.css.map": "/kit-logo/static/css/main.cb848cb4.css.map",
+    "main.394ab076.js.map": "/kit-logo/static/js/main.394ab076.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb848cb4.css",
+    "static/js/main.394ab076.js"
+  ]
+}
