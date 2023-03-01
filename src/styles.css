@@ -1,0 +1,31 @@
+  body {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  canvas {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 100vh;
+    pointer-events: none;
+    overflow: hidden;
+  }
+  .designer{
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 5rem;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: rgb(0, 0, 0);
+  }
+  .designer h3{
+    margin-bottom: -1rem;
+  }
+  @media only screen and (max-width: 400px) {
+    canvas{
+      margin-top: 9rem;
+      width: 27rem;
+      height: 27rem;
+    }
+  }
